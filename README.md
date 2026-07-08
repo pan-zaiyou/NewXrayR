@@ -51,7 +51,7 @@ A Xray backend framework that can easily support many panels.
 ## 软件安装
 ### 一键脚本安装
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/pan-zaiyou/XrayR/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/pan-zaiyou/NewXrayR/main/install.sh)
 ```
 ## Thanks
 
