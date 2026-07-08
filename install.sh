@@ -154,7 +154,7 @@ install_XrayR() {
     fi
     curl -o /usr/bin/XrayR -Ls https://raw.githubusercontent.com/pan-zaiyou/NewXrayR/main/XrayR.sh
     chmod +x /usr/bin/XrayR
-    ln -s /usr/bin/XrayR /usr/bin/xrayr # 小写兼容
+    ln -sf /usr/bin/XrayR /usr/bin/xrayr # 小写兼容
     chmod +x /usr/bin/xrayr
     echo -e ""
     echo "XrayR 管理脚本使用方法 (兼容使用xrayr执行，大小写不敏感): "
