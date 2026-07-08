@@ -106,7 +106,7 @@ install_XrayR() {
     mkdir /usr/local/XrayR/ -p
 	cd /usr/local/XrayR/
 
-    wget -q -N --no-check-certificate -O /usr/local/XrayR/XrayR https://github.com/pan-zaiyou/NewXrayR/releases/download/0.8.0/${arch}
+    wget -q -N --no-check-certificate -O /usr/local/XrayR/XrayR https://github.com/pan-zaiyou/NewXrayR/releases/download/0.8.9/${arch}
 
     chmod +x /usr/local/XrayR/XrayR
     mkdir /etc/XrayR/ -p
