@@ -1,4 +1,4 @@
-# XrayR-0.8.9-Backup final version
+# XrayR-0.8.9
 [![](https://img.shields.io/badge/TgChat-@XrayR讨论待开启-blue.svg)](https://t.me/)
 [![](https://img.shields.io/badge/Channel-@XrayR通知待开启-blue.svg)](https://t.me/)
 
