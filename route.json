@@ -17,20 +17,8 @@
     },
     {
       "type": "field",
-      "outboundTag": "socks5-warp",
-      "domain": []
-    },
-    {
-      "type": "field",
-      "outboundTag": "IPv6_out",
-      "domain": [
-        "geosite:netflix"
-      ]
-    },
-    {
-      "type": "field",
       "outboundTag": "IPv4_out",
-      "network": "udp,tcp"
+      "network": "tcp,udp"
     }
   ]
 }
